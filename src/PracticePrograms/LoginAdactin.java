@@ -30,5 +30,7 @@ public class LoginAdactin {
 		System.out.println("Is Adactin Logo Displayed? : "+isAdactinLogoDisplayed);
 		Thread.sleep(5000);
 		driver.close();
+		
+		System.out.println("Git practice line");
 	}
 }
