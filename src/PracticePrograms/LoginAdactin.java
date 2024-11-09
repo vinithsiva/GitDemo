@@ -34,4 +34,8 @@ public class LoginAdactin {
 		System.out.println("Git practice line");
 		System.out.println("Git practice line develop-master");
 	}
+	
+	public void sysoutDemo() {
+		System.out.println("Sysout demo method");
+	}
 }
