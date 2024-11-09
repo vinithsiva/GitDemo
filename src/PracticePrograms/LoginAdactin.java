@@ -38,4 +38,8 @@ public class LoginAdactin {
 	public void sysoutDemo() {
 		System.out.println("Sysout demo method");
 	}
+	
+	public void sysoutDemo1() {
+		System.out.println("Sysout demo method 1");
+	}
 }
