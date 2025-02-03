@@ -1,6 +1,7 @@
 
 public class GitPractice {
 	public static void main(String[] args) {
-		int a = 10;
+		System.out.println("Git Practice");
+		System.out.println("Git Practice - merge conflict");
 	}
 }
